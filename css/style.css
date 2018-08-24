@@ -1,0 +1,22 @@
+/* header{
+  height: 100vh;
+  width: 100%;
+  background-image: url(.../img/dices.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#gamestart {
+  display: none;
+} */
+
+header {
+  height: 100vh;
+  width: 100%;
+  background-color: lavender;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-image: url(../img/dices2.jpg);
+}

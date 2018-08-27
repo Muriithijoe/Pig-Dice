@@ -22,4 +22,8 @@ header {
 }
 #gamestart{
   display: none;
+  background-color: green;
+}
+#gamestarter{
+  background-color: pink;
 }

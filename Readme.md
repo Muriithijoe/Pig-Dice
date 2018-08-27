@@ -12,7 +12,7 @@ one that gets 100 points first
 * Run the link on the browser
 * The site will open
 ## Link to site
-
+https://muriithijoe.github.io/Pig-Dice/. 
 ## Technologies Used
 I used HTML, CSS, Bootstrap, Javascript and jquery
 ### License
